@@ -2,3 +2,4 @@
 
 echo "sum file"
 echo "edit something"
+echo "hi"
